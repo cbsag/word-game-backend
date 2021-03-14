@@ -1,1 +1,1 @@
-web: gunicorn set:tet 
+web: gunicorn set:app 
